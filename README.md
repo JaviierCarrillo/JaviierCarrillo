@@ -10,7 +10,7 @@
 <p align="center" dir="auto">
 	<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiercarrillo&show_icons=true&locale=en&theme=github_dark" alt="javiiercarrillo" /></a>
 
-	<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiercarrillo&show_icons=true&locale=en&theme=github_dark" alt="javiiercarrillo" /></a>
+	<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiercarrillo&show_icons=true&locale=en&theme=github_dark" alt="javiiercarrillo" /></a>
 </p>
 
 <h2 align="center">Connect with me</h2>
